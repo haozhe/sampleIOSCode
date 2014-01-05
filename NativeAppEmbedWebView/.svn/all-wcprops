@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/GENERAL/!svn/ver/420/trunk/GTmobNative/ios/NativeAppEmbedWebView
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/main.m
+END
+MultitaskDetailView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GENERAL/!svn/ver/388/trunk/GTmobNative/ios/NativeAppEmbedWebView/MultitaskDetailView.h
+END
+NewViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GENERAL/!svn/ver/420/trunk/GTmobNative/ios/NativeAppEmbedWebView/NewViewController.m
+END
+EGORefreshHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/GENERAL/!svn/ver/383/trunk/GTmobNative/ios/NativeAppEmbedWebView/EGORefreshHeaderView.h
+END
+MultitaskDetailView.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GENERAL/!svn/ver/415/trunk/GTmobNative/ios/NativeAppEmbedWebView/MultitaskDetailView.m
+END
+btn_home@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/btn_home@2x.png
+END
+EGORefreshHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/GENERAL/!svn/ver/383/trunk/GTmobNative/ios/NativeAppEmbedWebView/EGORefreshHeaderView.m
+END
+icon_gtplaces.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_gtplaces.png
+END
+btn_refresh@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/btn_refresh@2x.png
+END
+GTmobNativeAppIOS-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/GTmobNativeAppIOS-Prefix.pch
+END
+icon_rss.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_rss.png
+END
+btn_multitask.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/btn_multitask.png
+END
+Multitask.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/GENERAL/!svn/ver/373/trunk/GTmobNative/ios/NativeAppEmbedWebView/Multitask.h
+END
+icon_wrek.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_wrek.png
+END
+Multitask.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/GENERAL/!svn/ver/388/trunk/GTmobNative/ios/NativeAppEmbedWebView/Multitask.m
+END
+btn_multitask@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/btn_multitask@2x.png
+END
+btn_home.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/btn_home.png
+END
+icon_multitask@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_multitask@2x.png
+END
+icon_home.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_home.png
+END
+btn_refresh.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/btn_refresh.png
+END
+Cordova.plist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/420/trunk/GTmobNative/ios/NativeAppEmbedWebView/Cordova.plist
+END
+icon_critmob.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_critmob.png
+END
+icon_home@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_home@2x.png
+END
+MultitaskBackgroundView.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/MultitaskBackgroundView.h
+END
+icon_directory.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_directory.png
+END
+icon_gt911.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_gt911.png
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/388/trunk/GTmobNative/ios/NativeAppEmbedWebView/AppDelegate.h
+END
+MultitaskViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/MultitaskViewController.h
+END
+MultitaskBackgroundView.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/MultitaskBackgroundView.m
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/420/trunk/GTmobNative/ios/NativeAppEmbedWebView/AppDelegate.m
+END
+MultitaskViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/MultitaskViewController.m
+END
+icon_multitask.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_multitask.png
+END
+NewViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GENERAL/!svn/ver/420/trunk/GTmobNative/ios/NativeAppEmbedWebView/NewViewController.xib
+END
+icon_buses.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_buses.png
+END
+MultitaskDetailView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/MultitaskDetailView.xib
+END
+icon_mail.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/NativeAppEmbedWebView/icon_mail.png
+END
+GTmobNativeAppIOS-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/GENERAL/!svn/ver/420/trunk/GTmobNative/ios/NativeAppEmbedWebView/GTmobNativeAppIOS-Info.plist
+END
+NewViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GENERAL/!svn/ver/420/trunk/GTmobNative/ios/NativeAppEmbedWebView/NewViewController.h
+END

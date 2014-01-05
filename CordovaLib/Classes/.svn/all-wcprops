@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/GENERAL/!svn/ver/383/trunk/GTmobNative/ios/CordovaLib/Classes
+END
+CDVCordovaView.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/383/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCordovaView.m
+END
+NSData+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/NSData+Base64.h
+END
+CDVGlobalization.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVGlobalization.h
+END
+CDVSplashScreen.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVSplashScreen.m
+END
+NSData+Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/NSData+Base64.m
+END
+CDVGlobalization.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVGlobalization.m
+END
+CDVCommandDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCommandDelegate.h
+END
+CDVDebugConsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVDebugConsole.h
+END
+CDVAvailability.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVAvailability.h
+END
+CDVAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVAccelerometer.h
+END
+NSArray+Comparisons.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/NSArray+Comparisons.h
+END
+CDVDebugConsole.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVDebugConsole.m
+END
+CDVEcho.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVEcho.h
+END
+CDVAccelerometer.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVAccelerometer.m
+END
+NSArray+Comparisons.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/NSArray+Comparisons.m
+END
+CDVCommandQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCommandQueue.h
+END
+CDVEcho.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVEcho.m
+END
+CDVFileTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVFileTransfer.h
+END
+CDVCommandQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCommandQueue.m
+END
+CDVFileTransfer.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVFileTransfer.m
+END
+CDVContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVContact.h
+END
+CDVDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVDevice.h
+END
+CDVReachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVReachability.h
+END
+CDVContact.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVContact.m
+END
+CDVDevice.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVDevice.m
+END
+CDVReachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVReachability.m
+END
+CDVWhitelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVWhitelist.h
+END
+CDVLocalStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVLocalStorage.h
+END
+CDV.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDV.h
+END
+CDVFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVFile.h
+END
+CDVWhitelist.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVWhitelist.m
+END
+CDVInvokedUrlCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+END
+CDVURLProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVURLProtocol.h
+END
+CDVLocalStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVLocalStorage.m
+END
+CDVFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVFile.m
+END
+CDVInvokedUrlCommand.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+END
+CDVSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVSound.h
+END
+CDVCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCamera.h
+END
+CDVURLProtocol.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVURLProtocol.m
+END
+CDVCommandDelegateImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+END
+CDVSound.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVSound.m
+END
+CDVPluginResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVPluginResult.h
+END
+CDVCamera.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCamera.m
+END
+CDVCommandDelegateImpl.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+END
+CDVPluginResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVPluginResult.m
+END
+CDVCapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCapture.h
+END
+NSDictionary+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+END
+CDVCapture.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCapture.m
+END
+NSDictionary+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+END
+CDVBattery.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVBattery.h
+END
+NSMutableArray+QueueAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+END
+CDVViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/GENERAL/!svn/ver/383/trunk/GTmobNative/ios/CordovaLib/Classes/CDVViewController.h
+END
+CDVLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVLogger.h
+END
+CDVBattery.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVBattery.m
+END
+NSMutableArray+QueueAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+END
+CDVViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/GENERAL/!svn/ver/383/trunk/GTmobNative/ios/CordovaLib/Classes/CDVViewController.m
+END
+CDVLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVLogger.m
+END
+CDVNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVNotification.h
+END
+CDVNotification.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVNotification.m
+END
+UIDevice+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/UIDevice+Extensions.h
+END
+CDVPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVPlugin.h
+END
+CDVConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVConnection.h
+END
+UIDevice+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/UIDevice+Extensions.m
+END
+CDVPlugin.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVPlugin.m
+END
+CDVConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVConnection.m
+END
+CDVLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVLocation.h
+END
+CDVLocation.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVLocation.m
+END
+CDVContacts.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVContacts.h
+END
+CDVContacts.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVContacts.m
+END
+CDVDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVDebug.h
+END
+CDVCordovaView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVCordovaView.h
+END
+CDVSplashScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/GENERAL/!svn/ver/340/trunk/GTmobNative/ios/CordovaLib/Classes/CDVSplashScreen.h
+END
